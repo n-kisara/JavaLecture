@@ -1,0 +1,2 @@
+maleMonth=12 maleDay=14 femaleMonth=1 femaleDay=12 AISHOU=57 Good!
+maleMonth=6 maleDay=13 femaleMonth=6 femaleDay=21 AISHOU=33 Bad!
