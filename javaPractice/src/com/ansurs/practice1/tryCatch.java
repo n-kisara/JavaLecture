@@ -1,4 +1,4 @@
-package som.ansurs.practice1;
+package com.ansurs.practice1;
 
 public class tryCatch {
     public static void main(String[] args) {
